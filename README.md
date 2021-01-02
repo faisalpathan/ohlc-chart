@@ -28,6 +28,16 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## ScreenShot
+
+### History Chart
+
+![History Chart](https://github.com/faisalpathan/ohlc-chart/blob/master/example/Screenshot%202021-01-02%20at%209.31.26%20PM.png?raw=true)
+
+### Live Chart
+
+![Live Chart](https://github.com/faisalpathan/ohlc-chart/blob/master/example/Screenshot%202021-01-02%20at%209.31.58%20PM.png?raw=true)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
