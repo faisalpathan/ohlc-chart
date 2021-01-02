@@ -57,5 +57,3 @@ export const useResizeObserver = () => {
     return [setNode, observerEntry];
 };
 
-export default useResizeObserver;
-
