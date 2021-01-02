@@ -1,7 +1,6 @@
 import io from 'socket.io-client';
 
 import { BASE_API_PATH_SOCKET } from '../constants'
-import { throttledSendLiveOHLCData } from '../utils/selectors'
 
 const socket = io(BASE_API_PATH_SOCKET, { secure: false });
 
@@ -18,7 +17,6 @@ socket.subscribe = (callback) => {
 
 socket.on('data', (data, callback) => {
     dataPointsCallback(data)
-    // throttledSendLiveOHLCData(data)
     callback(1);
 });
 
