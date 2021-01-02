@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ohlc-chart/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ohlc-chart/static/js/main.aaa750ff.chunk.js",
+    "main.js.map": "/ohlc-chart/static/js/main.aaa750ff.chunk.js.map",
+    "runtime-main.js": "/ohlc-chart/static/js/runtime-main.304f3b74.js",
+    "runtime-main.js.map": "/ohlc-chart/static/js/runtime-main.304f3b74.js.map",
+    "static/js/2.fc26c446.chunk.js": "/ohlc-chart/static/js/2.fc26c446.chunk.js",
+    "static/js/2.fc26c446.chunk.js.map": "/ohlc-chart/static/js/2.fc26c446.chunk.js.map",
+    "static/js/3.e418842b.chunk.js": "/ohlc-chart/static/js/3.e418842b.chunk.js",
+    "static/js/3.e418842b.chunk.js.map": "/ohlc-chart/static/js/3.e418842b.chunk.js.map",
+    "index.html": "/ohlc-chart/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ohlc-chart/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.fc26c446.chunk.js.LICENSE.txt": "/ohlc-chart/static/js/2.fc26c446.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.304f3b74.js",
+    "static/js/2.fc26c446.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.aaa750ff.chunk.js"
+  ]
+}
